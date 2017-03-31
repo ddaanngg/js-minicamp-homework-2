@@ -5,11 +5,15 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* for loop
+		For loops are code blocks that continually run until a condition is satisfied.
 	* && || !
+		These are boolean conditions that are used to check if a need is satisfied.
 	* Array
+		An array is a block of variables stored in a single object. These can have multiple values and depending on the language, multiple data types.
 	* git
+		git is a platform in which the codebase for a project can be stored on an external server, allowing teams to be able to collaborate on a single project from remote locations. It is a version control system.
 	* GitHub
-
+		GitHub is a platform that provides git services.
 
 2. Install git.  https://git-scm.com/downloads
 
